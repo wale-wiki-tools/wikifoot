@@ -1,5 +1,5 @@
 [league]
-name="National Premier Leagues Victoria"
+name="National Premier Leagues Victoria Men's"
 
 [datasource]
 type="dribl"
@@ -15,7 +15,7 @@ league-id="OEN2MExEmq"
 "Avondale"="Avondale FC"
 
 [season]
-page-format="%year National Premier Leagues Victoria"
+page-format="%year National Premier Leagues Victoria Men's"
 section-index=7
 
 [teams]
